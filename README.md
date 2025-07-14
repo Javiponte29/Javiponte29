@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Javi
 
-<!--
-**Javiponte29/Javiponte29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web junior con interés en construir aplicaciones útiles, escalables y bien estructuradas. Actualmente trabajo con tecnologías como **Cypress, TypeScript, Java y Karate**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías:
+
+- ⚙️ Backend: Java · Spring Boot · APIs REST
+- 🌐 Frontend: HTML · CSS · JavaScript · React · JavaScript · TypeScript 
+- 🗄️ Base de datos: MySQL
+- 🧪 Testing: Cypress · Postman · Karate
+- 🔧 Herramientas: Git · GitHub · VS Code · IntelliJ
+
+---
+
+## 🚀 Algunos de mis proyectos:
+
+- 🛒 A Colleita [(URL)](https://github.com/Javiponte29/A-Colleita) — Tienda online hecha con React + Spring Boot
+
+---
+
+## 🎯 Actualmente...
+
+📚 Estoy trabajando como Tester tanto de backend como de frontend
+🧩 Busco mejorar y ampliar mis conocimientos como desarrollador
+
+---
+
+## 📫 ¿Hablamos?
+
+- [LinkedIn](www.linkedin.com/in/francisco-javier-ponte-yáñez-64bb51236)
+- 📬 [javierponteyanez@gmail.com]
+
+---
+
+> 💡 *"Siempre aprendiendo y disfrutando del proceso."*
+
