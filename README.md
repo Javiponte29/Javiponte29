@@ -29,7 +29,7 @@ Soy desarrollador web junior con interés en construir aplicaciones útiles, esc
 
 ## 📫 ¿Hablamos?
 
-- [LinkedIn][(www.linkedin.com/in/francisco-javier-ponte-yáñez-64bb51236)](https://www.linkedin.com/in/francisco-javier-ponte-y%C3%A1%C3%B1ez-64bb51236/)
+- [LinkedIn](https://www.linkedin.com/in/francisco-javier-ponte-y%C3%A1%C3%B1ez-64bb51236/)
 - 📬 [javierponteyanez@gmail.com]
 
 ---
